@@ -1,0 +1,15 @@
+﻿{
+    "Username": "ecarpo_bms@126.com",
+    "Password": "",
+    "Host": "smtp.126.com",
+    "Port": 465,
+    "Authenticate": true,
+    "ConnectTimeout": 0,
+    "UseSSL": true,
+    "subject": "hello",
+    "bodyText": "",
+    "toCC": "",
+    "toUser": "373226941@qq.com",
+    "toBcc": "",
+    "author": ""
+}
